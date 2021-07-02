@@ -3,6 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apidev234" alt="apidev234" /></a> </p>
 
+
+![Discord](https://discord.c99.nl/widget/theme-3/614515477800288277.png)
+
 - 🔭 I’m currently working on **Unlimited Projects xD**
 
 - 🌱 I’m currently learning **Javascript**
