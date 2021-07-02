@@ -1,20 +1,19 @@
-<h1 align="center">Welcome To My Github Im ShinchanPlayZ And Now You're Gonna See My Repos. Go Im Not Stopping You xD</h1>
+<h1 align="center">ApiDev234 | Developing Discord Bots And Websites</h1>
 <h3 align="center">A Developer From Delhi,India</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apidev234" alt="apidev234" /></a> </p>
-
 
 ![Discord](https://discord.c99.nl/widget/theme-3/614515477800288277.png)
 
-- 🔭 I’m currently working on **Unlimited Projects xD**
+- 🔭 I’m currently Creating a Web Music Player
 
 - 🌱 I’m currently learning **Javascript**
 
 - 💬 Ask me about **Javascript/Python**
 
-- How To Reach Me **contact@apidev234.tk**
+- 📧 How To Reach Me **contact@apidev234.tk**
 
-- ⚡ Fun fact **Weather Report says itll rain what i remove the clouds?**
+- 💻 Dm Me To Hire Me | Discord Bots & Webs | Python , Html , Css , C++ , Javascript Known as Far...
+
+- ⚡ Fun fact Javascript + Java + C++ + C# = Mess ~~Lmfao~~
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
