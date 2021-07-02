@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Javascript/Python**
 
-- How To Reach Me **rockgaurishsethia@gmail.com**
+- How To Reach Me **contact@apidev234.tk**
 
 - ⚡ Fun fact **Weather Report says itll rain what i remove the clouds?**
 
