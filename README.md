@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 💬 Ask me about **Javascript/Python**
+- 💬 Ask me about **Javascript/Python/C++/CSharp/Java**
 
 - 📧 How To Reach Me **contact@apidev234.tk**
 
