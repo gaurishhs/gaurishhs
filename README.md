@@ -3,7 +3,7 @@
 
 ![Discord](https://discord.c99.nl/widget/theme-3/614515477800288277.png)
 
-- 🔭 I’m currently Creating a Web Music Player
+- 🔭 I’m currently Creating a AI Chatbot Provider
 
 - 🌱 I’m currently learning **Javascript**
 
