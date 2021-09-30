@@ -3,13 +3,9 @@
 
 ![Discord](https://discord.c99.nl/widget/theme-3/238390268548612097.png)
 
-- 💬 Ask me about **Javascript/Python/C++/CSharp/Java**
+- 📧 How To Reach Me [Click Here](https://apidev234.tk/#contact)
 
-- 📧 How To Reach Me **contact@voltarbot.tech**
-
-- 💻 Dm Me To Hire Me | Discord Bots & Webs | Python , Html , Css , C++ , Javascript Known as Far...
-
-- ⚡ Fun fact Javascript + Java + C++ + C# = Mess ~~Lmfao~~
+- 💻 Dm Me For Paid Works
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
