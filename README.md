@@ -3,10 +3,6 @@
 
 ![Discord](https://discord.c99.nl/widget/theme-3/614515477800288277.png)
 
-- 🔭 I’m currently Creating a AI Chatbot Provider
-
-- 🌱 I’m currently learning **Javascript**
-
 - 💬 Ask me about **Javascript/Python/C++/CSharp/Java**
 
 - 📧 How To Reach Me **contact@voltarbot.tech**
