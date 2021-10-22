@@ -6,6 +6,7 @@
 - 📧 How To Reach Me [Click Here](https://apidev234.tk/#contact)
 
 - 💻 Dm Me For Paid Works
+- 💰 Donate Me [Here](https://ko-fi.com/apidev234)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
