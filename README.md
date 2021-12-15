@@ -7,7 +7,8 @@
 
 - 💻 Dm Me For Paid Works
 - 💰 Donate Me [Here](https://ko-fi.com/apidev234)
-- In Love With VueJS, Typescript, Cloudflare 
+- In Love With VueJS, Typescript, Aws, Cloudflare 
+- Developer & Staff https://www.sayheyto.me
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
