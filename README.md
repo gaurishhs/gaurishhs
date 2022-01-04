@@ -1,4 +1,4 @@
-<h1 align="center">ApiDev234 | Developing Discord Bots And Websites</h1>
+<h1 align="center">ApiDev234</h1>
 <h3 align="center">A Developer From Delhi,India</h3>
 
 ![Discord](https://discord.c99.nl/widget/theme-3/238390268548612097.png)
