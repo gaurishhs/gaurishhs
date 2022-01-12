@@ -10,7 +10,7 @@
 - In Love With VueJS, Typescript, Aws, Cloudflare 
 - Developer & Staff https://www.sayheyto.me
 - Developer https://audio-captcha.js.org
-- Portfolio https://www.apidev234.tk
+- Portfolio https://www.apidev234.wtf
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
