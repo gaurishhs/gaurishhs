@@ -5,7 +5,6 @@
 
 - 📧 How To Reach Me [Click Here](https://apidev234.tk/#contact)
 
-- 💻 Dm Me For Paid Works
 - 💰 Donate Me [Here](https://ko-fi.com/apidev234)
 - In Love With VueJS, Typescript, Aws, Cloudflare 
 - Developer https://audio-captcha.js.org
