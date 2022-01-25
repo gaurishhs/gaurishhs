@@ -3,7 +3,7 @@
 
 ![Discord](https://discord.c99.nl/widget/theme-3/238390268548612097.png)
 
-- 📧 How To Reach Me [Click Here](https://apidev234.tk/#contact)
+- 📧 How To Reach Me [Click Here](https://apidev234.wtf/#contact)
 
 - 💰 Donate Me [Here](https://ko-fi.com/apidev234)
 - In Love With VueJS, Typescript, Aws, Cloudflare 
