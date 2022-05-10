@@ -4,11 +4,10 @@
 ![Discord](https://discord.c99.nl/widget/theme-3/238390268548612097.png)
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kp6uje9thp0wq2dig9p6mzgpe&cover_image=true&theme=novatorem&bar_color=09ff00&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=kp6uje9thp0wq2dig9p6mzgpe&redirect=true)
 
+- Full Stack Developer
 - 📧 How To Reach Me [Click Here](https://apidev234.wtf/#contact)
-
 - 💰 Donate Me [Here](https://ko-fi.com/apidev234)
 - In Love With VueJS, Typescript, Aws, Cloudflare 
-- Developer https://audio-captcha.js.org
 - Portfolio https://www.apidev234.wtf
 
 <h3 align="left">Connect with me:</h3>
