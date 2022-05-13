@@ -4,15 +4,14 @@
 ![Discord](https://discord.c99.nl/widget/theme-3/238390268548612097.png)
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kp6uje9thp0wq2dig9p6mzgpe&cover_image=true&theme=novatorem&bar_color=09ff00&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=kp6uje9thp0wq2dig9p6mzgpe&redirect=true)
 
-- Full Stack Developer
-- 📧 How To Reach Me [Click Here](https://apidev234.wtf/#contact)
-- 💰 Donate Me [Here](https://ko-fi.com/apidev234)
+- [Contact Me](https://apidev234.wtf/#contact)
+- [Donate](https://ko-fi.com/apidev234)
 - In Love With VueJS, Typescript, Aws, Cloudflare 
-- Portfolio https://www.apidev234.wtf
+- [Portfolio](https://www.apidev234.wtf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ApiDev234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shinchanforever" height="30" width="40" /></a>
+<a href="https://twitter.com/ApiDev234" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shinchanforever" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
