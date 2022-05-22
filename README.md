@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm ApiDev234</h1>
 <p align="left">I'm a full stack developer, I'm from India.. I also love to help people...</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=avisbeastmc&label=Profile%20views&color=0e75b6&style=flat" alt="avisbeastmc" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=apidev234&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
 
 
 ![Discord](https://discord.c99.nl/widget/theme-3/238390268548612097.png)
