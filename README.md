@@ -5,7 +5,6 @@
 # Operating System & Tools
 ![MacOS](https://img.shields.io/badge/macOS-BigSur-292e33?style=flat-square&logo=apple&logoColor=ffffff)
 [![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=apidev234&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
 
 
 ## Technology Stack
@@ -29,5 +28,6 @@
 [![Twitter](https://img.shields.io/badge/ApiDev234-blue?logo=twitter)](https://twitter.com/ApiDev234)
 [![Discord](https://img.shields.io/badge/ApiDev234-5865F2?logo=discord)](https://discord.com/users/238390268548612097)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=apidev234&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
 [![donate on ko-fi](https://img.shields.io/badge/-Donate-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/apidev234)
 - [Portfolio](https://apidev234.wtf)
