@@ -30,3 +30,6 @@
 
 [![donate on ko-fi](https://img.shields.io/badge/-Donate-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/apidev234)
 - [Portfolio](https://apidev234.wtf)
+
+# Quote
+- “People who have never dealt with depression think it’s just being sad or being in a bad mood. That’s not what depression is for me; it’s falling into a state of grayness and numbness.” —Dan Reynolds, Imagine Dragons
