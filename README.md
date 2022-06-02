@@ -1,6 +1,7 @@
+<img align="center" src="https://raw.githubusercontent.com/apidev234/apidev234/main/Gaurish%20Sethia.png" />
+
 <h1 align="left">Hi, I'm Gaurish</h1>
 <p align="left">I am a Full Stack Developer, From India</p>
-
 
 # Operating System & Tools
 ![MacOS](https://img.shields.io/badge/macOS-BigSur-292e33?style=flat-square&logo=apple&logoColor=ffffff)
