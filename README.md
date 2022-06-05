@@ -15,11 +15,13 @@
 
 
 [![FastAPI](https://img.shields.io/badge/-FastAPI-092E20?style=flat-square&logo=FastAPI&logoColor=ffffff)](https://fastapi.tiangolo.com)
+[![NestJS](https://img.shields.io/badge/-NestJS-red?style=flat-square&logo=nestjs&logoColor=ffffff)](https://nestjs.com)
 [![Fastify](https://img.shields.io/badge/-Fastify-092E20?style=flat-square&logo=Fastify&logoColor=ffffff)](https://fastify.io)
 [![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=ffffff)](https://flask.palletsprojects.com/)
 
 [![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=ffffff)](https://redis.io/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4479A1?style=flat-square&logo=PostgreSQL&logoColor=ffffff)](https://www.postgresql.org/)
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)](https://www.mysql.com/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=ffffff)](https://www.mongodb.com/)
 
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
