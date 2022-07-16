@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm Gaurish</h1>
-<p align="left">I am a Full Stack Developer, From India. I mostly use Golang/Node.js for my projects. <a target="_blank" href="https://apidev234.wtf#contact">Contact me</a></p>
+<p align="left">I am a Full Stack Developer, From India. I mostly use Golang/Node.js for my projects. <a target="_blank" href="https://apidev234.wtf/contact">Contact me</a></p>
 
 # Operating System & Tools
 ![MacOS](https://img.shields.io/badge/macOS-Monterey-292e33?style=for-the-badge&logo=apple&logoColor=ffffff)
